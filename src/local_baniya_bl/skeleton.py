@@ -22,7 +22,7 @@ import logging
 from local_baniya_bl import __version__
 
 __author__ = "filopd"
-__copyright__ = "filopd"
+__copyright__ = "GeeksTrio"
 __license__ = "mit"
 
 _logger = logging.getLogger(__name__)

@@ -82,7 +82,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'local_baniya_bl'
-copyright = u'2020, filopd'
+copyright = u'2020, GeeksTrio'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
