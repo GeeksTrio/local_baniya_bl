@@ -21,7 +21,7 @@ import logging
 
 from local_baniya_bl import __version__
 
-__author__ = "filopd"
+__author__ = "filopd, aakashnaik007"
 __copyright__ = "GeeksTrio"
 __license__ = "mit"
 

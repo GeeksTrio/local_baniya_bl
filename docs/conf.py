@@ -236,7 +236,7 @@ latex_elements = {
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
   ('index', 'user_guide.tex', u'local_baniya_bl Documentation',
-   u'filopd', 'manual'),
+   u'geekstrio', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of

@@ -3,7 +3,7 @@
 import pytest
 from local_baniya_bl.skeleton import fib
 
-__author__ = "filopd"
+__author__ = "filopd, aakashnaik007"
 __copyright__ = "GeeksTrio"
 __license__ = "mit"
 
